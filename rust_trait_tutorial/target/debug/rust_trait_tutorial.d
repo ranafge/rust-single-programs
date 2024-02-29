@@ -1,0 +1,1 @@
+C:\Users\Rana\Documents\rust_sample_programs\rust_trait_tutorial\target\debug\rust_trait_tutorial.exe: C:\Users\Rana\Documents\rust_sample_programs\rust_trait_tutorial\src\lib.rs C:\Users\Rana\Documents\rust_sample_programs\rust_trait_tutorial\src\main.rs
